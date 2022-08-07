@@ -5,7 +5,7 @@ FullStack Developer
 -------------------
 
 * 🌍  I'm based in Fortaleza
-* 🖥️  See my portfolio at [Meu Portfólio](http://erickserejo.com)
+* 🖥️  See my portfolio at [My site](http://erickserejo.com)
 * ✉️  You can contact me at [erick.erfs@gmail.com](mailto:erick.erfs@gmail.com)
 
 ### ⚡ Tecnologies:
@@ -18,7 +18,7 @@ These are some of the technologies and tools I work with:
 
 ### 📈 My Stats
 
-| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| My Statis                                                                                                                                                            | Languages                                                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=Serejo&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Serejo&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
