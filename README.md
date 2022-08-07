@@ -12,7 +12,7 @@ FullStack Developer
 
 These are some of the technologies and tools I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,jest,react,vue,nodejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,jest,react,vue,nodejs,flutter,laravel)](https://skillicons.dev)
 
 
 
