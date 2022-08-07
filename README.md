@@ -8,9 +8,7 @@ FullStack Developer
 * 🖥️  See my portfolio at [Meu Portfólio](http://erickserejo.com)
 * ✉️  You can contact me at [erick.erfs@gmail.com](mailto:erick.erfs@gmail.com)
 
-### Skills
-
-[![Serejo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Serejo)](https://github.com/Serejo/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,jest,react,vue,nodejs,)](https://skillicons.dev)
 
 
 
