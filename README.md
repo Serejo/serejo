@@ -1,7 +1,7 @@
 Hi 👋 My name is Erick Serejo
 =============================
 
-FullStack Developer
+Mobile / Frontend Developer
 -------------------
 
 * 🌍  I'm based in Fortaleza
@@ -12,7 +12,7 @@ FullStack Developer
 
 These are some of the technologies and tools I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,jest,react,vue,nodejs,flutter,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,jest,react,vue,nodejs,flutter,swift)](https://skillicons.dev)
 
 
 
